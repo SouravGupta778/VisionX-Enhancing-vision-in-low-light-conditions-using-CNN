@@ -28,8 +28,8 @@ This project focuses on enhancing low-light images using deep learning technique
 ## 🛠 Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/your-repo/low-light-enhancement.git
-   cd low-light-enhancement
+   git clone [https://github.com/SouravGupta778/VisionX-Enhancing-vision-in-low-light-conditions-using-CNN.git]
+   cd VisionX-Enhancing-vision-in-low-light-conditions-using-CNN.git
    
 2. Install dependencies:
    bash
